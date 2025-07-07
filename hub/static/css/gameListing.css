@@ -4,6 +4,7 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     margin: 20px;
+    background-image: url("nbahoopmetrics-final-background.jpg");
 }
 
 table {
@@ -73,3 +74,4 @@ button {
 button:hover {
     background-color: #0056b3; /* Darker shade on hover */
 }
+
